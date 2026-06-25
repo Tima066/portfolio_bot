@@ -1,0 +1,9 @@
+meta:
+  environment: python
+  toolchain:
+    name: pip
+    version: 3.12
+run:
+  scriptName: main.py
+  args: "8704395916:AAGZESNSQl24vPFGo6lTHR6Em90v20f4FbE"
+#подключение бота к платформе амвера узнал по поиску в гугле и после статьи на хабре
